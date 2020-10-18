@@ -22,5 +22,5 @@
 | night          | Sets the world's time to night.             | /night                    | ogroessentials.command.night                                             |         |
 | sun            | Sets the world's weather to sunny.          | /sun                      | ogroessentials.command.sun                                               |         |
 | rain           | Sets the world's weather to rain.           | /rain                     | ogroessentials.command.rain                                              |         |
-| thunder        | Sets the world's weather to thunder.        | /thunder                  | ogroessentials.command.thunder                                           |         |
-| smelt          | Smelts your hand's items.                   | /smelt                    | ogroessentials.command.smelt    
+| thunder        | Sets the world's weather to thunder.        | /thunder                  | ogroessentials.command.thunder                                           | storm   |
+| smelt          | Smelts your hand's items.                   | /smelt                    | ogroessentials.command.smelt                                             |         |
