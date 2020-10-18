@@ -6,124 +6,124 @@ errorMessage: '&4%prefix%> &c%message%'
 
 infoMessage: '&6%prefix%> &b%message%'
 
-permissionMessage: '&4Permissao> &cVoce nao tem permissao para fazer isso! (%permission%)'
+permissionMessage: '&4Permission> &cYou do not have permission to do this! (%permission%)'
 
-mustBePlayer: 'Voce precisa ser um jogador para usar este comando.'
+mustBePlayer: 'You must be a player to execute this command.'
 
 ### Commands
 
 ## GameMode
 
-prefixGameMode: 'Modo de Jogo'
+prefixGameMode: 'GameMode'
 
-incorrectUsageGameMode: 'Uso Incorreto! Utilize /gamemode <modo> [jogador]'
+incorrectUsageGameMode: 'Incorrect Usage! Use /gamemode <mode> [player]'
 
-invalidGameMode: 'O modo de jogo especificado e invalido.'
+invalidGameMode: 'The specified gamemode is invalid.'
 
-targetNotOnlineGameMode: 'O alvo do comando nao esta online.'
+targetNotOnlineGameMode: 'The target is not online.'
 
-targetChangedGamemode: 'O modo de jogo de &e%target% &7foi alterado.'
+targetChangedGamemode: 'The gamemode of &e%target% &7was changed.'
 
-targetChangedGamemode2: 'Seu modo de jogo foi alterado por &6%player%'
+targetChangedGamemode2: 'Your gamemode was changed by &6%player%'
 
 ## Heal
 
 prefixHeal: 'Heal'
 
-incorrectUsageHeal: 'Uso Incorreto! Utilize /heal [jogador]'
+incorrectUsageHeal: 'Incorrect Usage! Use /heal [player]'
 
-sucessHeal: 'Sua vida foi regenerada.'
+sucessHeal: 'You were healed.'
 
-targetNotOnlineHeal: 'O alvo do comando nao esta online.'
+targetNotOnlineHeal: 'The target is not online.'
 
-targetHeal: 'A vida de &e%target% &7foi regenerada.'
+targetHeal: '&e%target% &7was healed.'
 
-targetHeal2: 'Sua vida foi regenerada por &e%player%'
+targetHeal2: 'You were healed by &e%player%&7.'
 
 ##Feed
 
-prefixFeed: 'Heal'
+prefixFeed: 'Feed'
 
-incorrectUsageFeed: 'Uso Incorreto! Utilize /feed [jogador]'
+incorrectUsageFeed: 'Incorrect Usage! Use /feed [player]'
 
-sucessFeed: 'Sua fome foi saciada.'
+sucessFeed: 'You were feed.'
 
-targetNotOnlineFeed: 'O alvo do comando nao esta online.'
+targetNotOnlineFeed: 'The target is not online.'
 
-targetFeed: 'A fome de &e%target% &7foi saciada.'
+targetFeed: '&e%target% &7was feed.'
 
-targetFeed2: 'Sua fome foi saciada por &e%player%'
+targetFeed2: 'You were feed by &e%player%&7.'
 
 ## TpHere
 
-prefixTpHere: 'Teleporte'
+prefixTpHere: 'Tphere'
 
-incorrectUsageTpHere: 'Uso Incorreto! Utilize /tphere <jogador>'
+incorrectUsageTpHere: 'Incorrect Usage! Use /tphere <player>'
 
-targetNotOnlineTpHere: 'O alvo do comando não esta online.'
+targetNotOnlineTpHere: 'The target is not online.'
 
-targetTpHere: '&e%target% &7foi teleportado para sua localização.'
+targetTpHere: '&e%target% &7was teleported to your location.'
 
-targetTpHere2: 'Você foi teleportado por %player%&b.'
+targetTpHere2: 'You were teleported by %player%&b.'
 
 ## TpAll
 
-prefixTpAll: 'Teleporte'
+prefixTpAll: 'Tpall'
 
-sucessTpAll: 'Todos os jogadores foram movidos a voce!'
+sucessTpAll: 'All players were teleported to you!'
 
-sucessTpAll2: 'Você foi teleportado por %player%"&b.'
+sucessTpAll2: 'You were teleported by %player%"&b.'
 
 ## ClearChat
 
-prefixClearChat: 'Bate-Papo'
+prefixClearChat: 'ClearChat'
 
-sucessClearChat: 'O bate-papo foi limpo com exito.'
+sucessClearChat: 'The chat was cleared sucessfully.'
 
-sucessClearChat2: 'O bate-papo foi limpo por um moderador.'
+sucessClearChat2: 'The chat was cleared by a moderator.'
 
 ## Clock
 
-prefixCLock: 'Relogio'
+prefixCLock: 'Clock'
 
-sucessClock: 'O horario nesse mundo é &e%time%'
+sucessClock: 'The time on this world is &e%time%'
 
 ## Day
 
-prefixDay: 'Dia'
+prefixDay: 'Day'
 
-sucessDay: 'O tempo foi definido para dia.'
+sucessDay: 'The time was set to day.'
 
 ## Night
 
-prefixNight: 'Noite'
+prefixNight: 'Night'
 
-sucessNight: 'O tempo foi definido para noite.'
+sucessNight: 'The time was set to night.'
 
 ## Sun
 
-prefixSun: 'Sol'
+prefixSun: 'Sun'
 
-sucessSun: 'O clima foi definido para &eENSOLARADO'
+sucessSun: 'The weather was set to &eSUNNY&7.'
 
 ## Rain
 
-prefixRain: 'Chuva'
+prefixRain: 'Rain'
 
-sucessRain: 'O clima foi definido para &eCHUVOSO'
+sucessRain: 'The weather was set to &eRAINY&7.'
 
 ## Thunder
 
-prefixThunder: 'Tempestade'
+prefixThunder: 'Thunder'
 
-sucessThunder: 'O clima foi definido para &eTROVEJOSO'
+sucessThunder: 'The weather was set to &eTHUNDER&7.'
 
 ## Smelt
 
 prefixSmelt: 'Smelt'
 
-sucessSmelt: 'Todos os itens foram feitos em barras.'
+sucessSmelt: 'The item was smelted sucessfully.'
 
-invalidItemSmelt: 'Esse item nao pode ser feito em barra.'
+invalidItemSmelt: 'This item cannot be smelted.'
 
-noItemSmelt: 'Voce precisa segurar um item em suas maos para faze-lo em barra.'
+noItemSmelt: 'You must hold the item on your main hand to smelt it.'

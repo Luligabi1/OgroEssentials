@@ -16,7 +16,7 @@ public class OgroEssentialsCommand implements CommandExecutor {
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 		if(sender.hasPermission(Permissions.COMMAND_OGROESSENTIALS)) {
 			sender.sendMessage(MessageUtils.infoMessage("OgroEssentials", 
-					"\nVersão: " + pdf.getVersion() +
+					"\nVersion: " + pdf.getVersion() +
 					"\nSpigot API:" + pdf.getAPIVersion() +
 					"\nGithub: " + pdf.getWebsite())); 
 		} else {
