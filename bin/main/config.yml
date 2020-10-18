@@ -1,0 +1,129 @@
+### Generic Messages
+
+sucessMessage: '&9%prefix%> &7%message%'
+
+errorMessage: '&4%prefix%> &c%message%'
+
+infoMessage: '&6%prefix%> &b%message%'
+
+permissionMessage: '&4Permissao> &cVoce nao tem permissao para fazer isso! (%permission%)'
+
+mustBePlayer: 'Voce precisa ser um jogador para usar este comando.'
+
+### Commands
+
+## GameMode
+
+prefixGameMode: 'Modo de Jogo'
+
+incorrectUsageGameMode: 'Uso Incorreto! Utilize /gamemode <modo> [jogador]'
+
+invalidGameMode: 'O modo de jogo especificado e invalido.'
+
+targetNotOnlineGameMode: 'O alvo do comando nao esta online.'
+
+targetChangedGamemode: 'O modo de jogo de &e%target% &7foi alterado.'
+
+targetChangedGamemode2: 'Seu modo de jogo foi alterado por &6%player%'
+
+## Heal
+
+prefixHeal: 'Heal'
+
+incorrectUsageHeal: 'Uso Incorreto! Utilize /heal [jogador]'
+
+sucessHeal: 'Sua vida foi regenerada.'
+
+targetNotOnlineHeal: 'O alvo do comando nao esta online.'
+
+targetHeal: 'A vida de &e%target% &7foi regenerada.'
+
+targetHeal2: 'Sua vida foi regenerada por &e%player%'
+
+##Feed
+
+prefixFeed: 'Heal'
+
+incorrectUsageFeed: 'Uso Incorreto! Utilize /feed [jogador]'
+
+sucessFeed: 'Sua fome foi saciada.'
+
+targetNotOnlineFeed: 'O alvo do comando nao esta online.'
+
+targetFeed: 'A fome de &e%target% &7foi saciada.'
+
+targetFeed2: 'Sua fome foi saciada por &e%player%'
+
+## TpHere
+
+prefixTpHere: 'Teleporte'
+
+incorrectUsageTpHere: 'Uso Incorreto! Utilize /tphere <jogador>'
+
+targetNotOnlineTpHere: 'O alvo do comando não esta online.'
+
+targetTpHere: '&e%target% &7foi teleportado para sua localização.'
+
+targetTpHere2: 'Você foi teleportado por %player%&b.'
+
+## TpAll
+
+prefixTpAll: 'Teleporte'
+
+sucessTpAll: 'Todos os jogadores foram movidos a voce!'
+
+sucessTpAll2: 'Você foi teleportado por %player%"&b.'
+
+## ClearChat
+
+prefixClearChat: 'Bate-Papo'
+
+sucessClearChat: 'O bate-papo foi limpo com exito.'
+
+sucessClearChat2: 'O bate-papo foi limpo por um moderador.'
+
+## Clock
+
+prefixCLock: 'Relogio'
+
+sucessClock: 'O horario nesse mundo é &e%time%'
+
+## Day
+
+prefixDay: 'Dia'
+
+sucessDay: 'O tempo foi definido para dia.'
+
+## Night
+
+prefixNight: 'Noite'
+
+sucessNight: 'O tempo foi definido para noite.'
+
+## Sun
+
+prefixSun: 'Sol'
+
+sucessSun: 'O clima foi definido para &eENSOLARADO'
+
+## Rain
+
+prefixRain: 'Chuva'
+
+sucessRain: 'O clima foi definido para &eCHUVOSO'
+
+## Thunder
+
+prefixThunder: 'Tempestade'
+
+sucessThunder: 'O clima foi definido para &eTROVEJOSO'
+
+## Smelt
+
+prefixSmelt: 'Smelt'
+
+sucessSmelt: 'Todos os itens foram feitos em barras.'
+
+invalidItemSmelt: 'Esse item nao pode ser feito em barra.'
+
+noItemSmelt: 'Voce precisa segurar um item em suas maos para faze-lo em barra.'

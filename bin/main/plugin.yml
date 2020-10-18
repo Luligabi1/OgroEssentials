@@ -1,0 +1,45 @@
+name: OgroEssentials
+main: me.luligabi.ogroessentials.OgroEssentials
+version: 1.0
+author: [Luligabi]
+api-version: 1.16
+website: https://github.com/Luligabi1/OgroEssentials
+commands:
+    ogroessentials:
+       aliases: [oe]
+       description: Exibe informações do Plugin.
+    gamemode:
+       aliases: [gm]
+       description: Mude seu Modo de Jogo.
+    heal:
+       description: Cure totalmente você ou um alvo.
+    feed:
+       description: Sacie totalmente a fome de um alvo ou você mesmo.
+    tphere:
+       description: Teleporte um jogador para a sua localização.
+    tpall:
+       description: Teleporte todos os jogadores a sua localização.
+    clearchat:
+       aliases: [cc]
+       description: Limpe o chat totalmente.      
+    clock:
+       aliases: [relogio]
+       description: Veja o horário atual no mundo em ticks.       
+    day:
+       aliases: [dia]
+       description: Define o horário do mundo atual para dia.
+    night:
+       aliases: [noite]
+       description: Define o horário do mundo atual para noite.
+    sun:
+       aliases: [sol]
+       description: Define o clima do mundo atual para ensolarado.
+    rain:
+       aliases: [chuva, chover]
+       description: Define o clima do mundo atual para chuvoso.
+    thunder:
+       aliases: [storm, tempestade]
+       description: Define o clima do mundo atual para trovejoso.
+    smelt:
+       aliases: [derreter]
+       description: Derrete minérios de ferro e ouro em barras.
