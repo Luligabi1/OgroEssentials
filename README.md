@@ -3,8 +3,9 @@
 
 # Downloads
 
-**Spigot:** *TBA*
-**Github:** *TBA*
+**Spigot:** https://www.spigotmc.org/resources/ogroessentials.84934/
+
+**Github:** https://github.com/Luligabi1/OgroEssentials/releases/tag/v1.0.0
 
 # Commands and Permissions
 
