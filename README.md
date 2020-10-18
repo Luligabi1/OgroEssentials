@@ -12,7 +12,7 @@
 | Command        | Description                                 | Usage                     | Permission                                                               | Aliases |
 |----------------|---------------------------------------------|---------------------------|--------------------------------------------------------------------------|---------|
 | ogroessentials | Shows basic information about the plugin.   | /ogroessentials           | ogroessentials.command.ogroessentials                                    | oe      |
-| gamemode       |                                             | /gamemode <mode> [target] | ogroessentials.command.gamemode,  ogroessentials.command.gamemode.others | gm      |
+| gamemode       | Change yours or other player's gamemode.    | /gamemode <mode> [target] | ogroessentials.command.gamemode,  ogroessentials.command.gamemode.others | gm      |
 | heal           | Heal yourself or other players.             | /heal [target]            | ogroessentials.command.heal,  ogroessentials.command.heal.others         |         |
 | feed           | Feed yourself or other players.             | /feed [target]            | ogroessentials.command.feed, ogroessentials.command.feed.others          |         |
 | tphere         | Teleport a player to your location.         | /tphere <target>          | ogroessentials.command.tphere                                            |         |
