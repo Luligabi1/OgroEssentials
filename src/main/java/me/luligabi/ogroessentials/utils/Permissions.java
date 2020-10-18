@@ -1,7 +1,6 @@
 package me.luligabi.ogroessentials.utils;
 
 public class Permissions {
-	
 	public static final String COMMAND_OGROESSENTIALS = "ogroessentials.command.ogroessentials";
 	public static final String COMMAND_GAMEMODE = "ogroessentials.command.gamemode";
 	public static final String COMMAND_GAMEMODE_OTHERS = "ogroessentials.command.gamemode.others";
@@ -19,5 +18,4 @@ public class Permissions {
 	public static final String COMMAND_RAIN = "ogroessentials.command.rain";
 	public static final String COMMAND_THUNDER = "ogroessentials.command.thunder";
 	public static final String COMMAND_SMELT = "ogroessentials.command.smelt";
-
 }
