@@ -81,7 +81,7 @@ public class GameModeCommand implements CommandExecutor {
     }
 
     private boolean giveGameMode(Player player, String arg) {
-        GameMode gm = null;
+        GameMode gm =null;
         if (isInteger(arg)) {
             gm = gameModes.get(Integer.parseInt(arg));
         } else {
